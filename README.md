@@ -23,7 +23,7 @@ L.T. Ozgur Yildirim
 <a id='section1'></a>
 ### Purpose of the study
 
-In this project, I am working as data analyst for a meteorology company. My company created machine learning models to predict the average temperature and if the weather is suitable for outdoor activities based on meteorological data. 
+In this project, I am working as a data analyst for a meteorology company. My company created machine learning models to predict the average temperature and if the weather is suitable for outdoor activities based on meteorological data. 
 The main objectives of this study include 1) analyzing relationships between meteorological parameters, 2) hypothesis testing to decide whether the data sufficiently support the hypothesis, and 3) building linear and logistic regression models and time series forecasting to predict the average temperature and classify the weather into suitable for outdoor activities or not.
 
 <a id='section2'></a>
